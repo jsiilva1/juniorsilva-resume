@@ -12,7 +12,7 @@ Picos, BR.
 
 **Telegram**: @juniorsilva.47
 
-[Linkedin](linkedin.com/in/jsilva49//) -  [Github](https://github.com/jsiilva1/)
+[Linkedin](https://www.linkedin.com/in/jsilva49/) -  [Github](https://github.com/jsiilva1/)
 
 ## Experience
 
