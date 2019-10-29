@@ -14,6 +14,13 @@ Picos, BR.
 
 [Linkedin](https://www.linkedin.com/in/jsilva49/) -  [Github](https://github.com/jsiilva1/)
 
+## Summary
+I am a Full Stack Developer with experience in Web and Mobile Development, working from web systems architecture to software development and testing using technologies such as Node.JS, PHP,  Laravel, Python, React, Angular, Redis, Elastic Search, Javascript, HTML5, CSS3, Bootstrap, Git, Composer, Gulp, Sass, Less and several other technologies and related tools.
+
+I am a self-taught developer who is always in constant learning, always seeking to be aligned with the technologies adopted by the world and I have vast experience in creating the most diverse products for this segment.
+
+I have a great knowlegde in design and implement scalable, highly available software services with continuously design, develop and deploy backend services with focus on high availability, low latency and scalability.
+
 ## Experience
 
 *2019/11 - Present* - **Software Engineer** - <https://virtualcart.app/>  
@@ -28,6 +35,7 @@ Picos, BR.
 
 ##### Courses / Certifications
 
+- Integrated Course Program Algorithm Specialization - Stanford University, Coursera - Oct 2019 - Present
 - Integrated Course Program Developing Applications with Google Cloud Platform - Google, Coursera - March 2019
 - Scala Programming for Data Science, IBM Claims - May 2019
 - Developing Cloud Native Applications with Microservices - Redhat Training Center - June 2019
