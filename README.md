@@ -6,8 +6,6 @@ Picos, BR.
 
 **E-mail**: [jsiilva@outlook.com.br](mailto:jsiilva@outlook.com.br)
 
-**WebSite**: [juniorsilva7.me](https://juniorsilva7.me)
-
 **Phone**: +55 89 994112266
 
 **Telegram**: @juniorsilva.47
