@@ -21,9 +21,6 @@ I have a great knowlegde in design and implement scalable, highly available soft
 
 ## Experience
 
-*2019/11 - Present* - **Software Engineer** - <https://virtualcart.app/>  
-- Full Stack developer at Cartorio Virtual App service using technologies like PHP, JavaScript, NodeJs, Graphql, Docker, React and more.
-
 *2019/04 - 2019/11* - **Software Engineer** - <https://reload.co/> 
 - Operated on both the Front-end, using React, and Back-end, using NodeJS / Express and MySQL, at the company's internal system.
 
@@ -62,7 +59,7 @@ I have a great knowlegde in design and implement scalable, highly available soft
 
 ### Dev OPS
 
-- AWS(*Lambdas, S3, EC2, Data Pipeline, DynamoDB*)
+- AWS(*Lambdas, S3, EC2, DynamoDB*)
 - Docker
 - ArchLinux Lover
 
