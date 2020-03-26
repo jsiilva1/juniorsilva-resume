@@ -2,13 +2,11 @@
 # Ivanicio Junior
 
 Brazilian, single, 21 years old.  
-Picos, BR.  
+Picos, PI, BR.  
 
-**E-mail**: [jsiilva@outlook.com.br](mailto:jsiilva@outlook.com.br)
-
-**Phone**: +55 89 994112266
-
-**Telegram**: @juniorsilva.47
+**E-mail**: [jsiilva@outlook.com.br](mailto:jsiilva@outlook.com.br)           
+**Phone**: +55 89 994112266            
+**Telegram**: @juniorsilva.47          
 
 [Linkedin](https://www.linkedin.com/in/jsilva49/) -  [Github](https://github.com/jsiilva1/)
 
@@ -21,7 +19,10 @@ I have a great knowlegde in design and implement scalable, highly available soft
 
 ## Experience
 
-*2019/04 - 2019/11* - **Software Engineer** - <https://reload.co/> 
+*2020/03 - Currently* - **Pleno Backend Software Engineer** - <https://mutual.club/> 
+- Revolutionising the Universe of finance and personal loans at Mutual as Backend Software Engineer. I'm Pleno Backend Engineer who is working with Node, Typescript, microservices, koa framework, Jest for integration and unit tests and AWS (Lambdas, API Gateway, SQS, SNS, RDS, DOCDB, CloudFormation, S3, EC2, VPC) to perform disruptive technology and solutions for Mutual customers. 
+
+*2019/04 - 2019/11* - **Jr. Full Stack Software Engineer** - <https://reload.co/> 
 - Operated on both the Front-end, using React, and Back-end, using NodeJS / Express and MySQL, at the company's internal system.
 
 ## Education
